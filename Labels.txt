@@ -1,1 +1,2 @@
 googlechromepkg
+microsoftvisualstudiocode
