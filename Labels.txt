@@ -1,4 +1,3 @@
-googlechrome
 microsoftvisualstudiocode
 slack
 visualstudiocode
